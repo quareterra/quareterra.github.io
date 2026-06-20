@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Aboba
 ---
 
 This is a blank Quartz installation.
